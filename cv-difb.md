@@ -5,9 +5,6 @@
 ![](img/difb.jpg)
 
 
-- __Email__: diego@freniche.com
-- __Phone__: +0034 606 33 77 21
-- __Skype__: dfreniche
 - Social:
 	- Facebook: [https://www.facebook.com/dfreniche]()
 	- Twitter: [https://twitter.com/dfreniche]()
