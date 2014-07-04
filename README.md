@@ -6,22 +6,35 @@
 
 
 - Social:
-	- Facebook: [https://www.facebook.com/dfreniche]()
 	- Twitter: [https://twitter.com/dfreniche]()
 	- LinkedIn: [http://es.linkedin.com/in/dfreniche]()
 	- Github: [https://github.com/dfreniche]()
 	- StackOverflow: [http://stackoverflow.com/users/225503/diego-freniche]()
 
-- Blog: (http://blog.freniche.com) _Blog in Spanish_
+- Blog: [http://blog.freniche.com]() _Beware: Blog in Spanish_
 
-- Current location: El Saucejo, Seville (Spain)
+- Current location: 
+	- El Saucejo, Seville (Spain)
+	- Travelling a lot, available to work elsewhere for short terms
 
 ##Current Position
 
-Working as a Freelance:
+Working as a __Freelance__:
 
-- crafting Android & iOS Apps
-- teaching public & private sector customers how to develop __iOS & Android__ Apps. I teach in Spanish & English, mainly inside Spain but also in other countries.
+- __crafting Android & iOS Apps__
+- __teaching__ public & private sector customers how to develop __iOS & Android__ Apps. I teach in Spanish & English, mainly inside Spain but also in other countries.
+
+
+##Public speaking
+
+- Confirmed as speaker for the upcoming iOSDevUK 2014
+- Speaker (two workshops) at the Gran Canaria TIC (GCTIC) Forum
+- Speaker at the [WipJam - MWC 2014](http://wipjammwc14.sched.org/event/c80b40922c7abb24aa768388f60fa5b6#.UwYllnneMWa)
+- Speaker at the [NSSpain international conference, Sept 2013](http://nsspain.com/2013/speakers/)
+- Speaker at the [BCNDevCon conference, Dec 2012](http://2012.bcndevcon.org/master-sessions/C-mo-entrar-en-el-comercio-m-vil)
+- Founder of the NSCoder Night Seville meeting group of Cocoa developers
+- Regular appearances at the Spanish development podcast [We.Developers](http://wedevelopers.com)
+
 
 ##Past experience
 
@@ -74,7 +87,7 @@ September 1997 – August 1999 (2 years)
 - Writer at [MacWorld Spain](http://dialnet.unirioja.es/servlet/autor?codigo=889530)
 - Writer at PCWorld Spain (topic: Linux)
 - Some code at bitbucket (migrating into Github): [https://bitbucket.org/dfreniche]()
-- A few episodes of my videocast: [http://www.cafeycocoa.com.es]() 
+- A few episodes of my videocast (old Xcode 4 stuff, sorry): [http://www.cafeycocoa.com.es]() 
 
 ###Customer Apps published
 
@@ -88,14 +101,6 @@ September 1997 – August 1999 (2 years)
 - MyEvents, iOS App [Link](https://itunes.apple.com/es/app/myevents/id398956491?mt=8)
 - FXPlayer [Link](https://itunes.apple.com/es/app/fxplayer/id412711013?mt=8)
 - ClockRing [Link to repo, open source App](https://femtocoders.fogbugz.com/default.asp?W5#!)
-
-###Public speaking
-
-- Speaker at the [WipJam - MWC 2014](http://wipjammwc14.sched.org/event/c80b40922c7abb24aa768388f60fa5b6#.UwYllnneMWa)
-- Speaker at the [NSSpain international conference, Sept 2013](http://nsspain.com/2013/speakers/)
-- Speaker at the [BCNDevCon conference, Dec 2012](http://2012.bcndevcon.org/master-sessions/C-mo-entrar-en-el-comercio-m-vil)
-- Founder of the NSCoder Night Seville meeting group of Cocoa developers
-- Speaking at the Spanish development podcast [We.Developers](http://wedevelopers.com)
 
 ###Industry certifications
 
