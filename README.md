@@ -27,8 +27,8 @@ Working as a __Freelance__:
 
 ##Public speaking
 
-- Confirmed as speaker for the upcoming iOSDevUK 2014
-- Speaker (two workshops) at the Gran Canaria TIC (GCTIC) Forum
+- Speaker at [iOSDevUK 2014](http://www.iosdevuk.com/speakers2014/)
+- Speaker (two workshops, [iOS](http://www.gctic.eu/#/detalle/Mios) and [Android](http://www.gctic.eu/#/detalle/Mandroid)) at the Gran Canaria TIC (GCTIC) Forum
 - Speaker at the [WipJam - MWC 2014](http://wipjammwc14.sched.org/event/c80b40922c7abb24aa768388f60fa5b6#.UwYllnneMWa)
 - Speaker at the [NSSpain international conference, Sept 2013](http://nsspain.com/2013/speakers/)
 - Speaker at the [BCNDevCon conference, Dec 2012](http://2012.bcndevcon.org/master-sessions/C-mo-entrar-en-el-comercio-m-vil)
