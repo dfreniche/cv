@@ -6,10 +6,10 @@
 
 
 - Social:
-	- Twitter: [https://twitter.com/dfreniche]()
-	- LinkedIn: [http://es.linkedin.com/in/dfreniche]()
-	- Github: [https://github.com/dfreniche]()
-	- StackOverflow: [http://stackoverflow.com/users/225503/diego-freniche]()
+	- Twitter: [https://twitter.com/dfreniche](https://twitter.com/dfreniche)
+	- LinkedIn: [http://es.linkedin.com/in/dfreniche](http://es.linkedin.com/in/dfreniche)
+	- Github: [https://github.com/dfreniche](https://github.com/dfreniche)
+	- StackOverflow: [http://stackoverflow.com/users/225503/diego-freniche](http://stackoverflow.com/users/225503/diego-freniche)
 
 - Blog: [http://blog.freniche.com]() _Beware: Blog in Spanish_
 
