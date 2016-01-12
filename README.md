@@ -19,9 +19,9 @@
 
 ##Current Position
 
-Working as a __Freelance__:
+Working as a __Mobile Developer at [Mobile Jazz](http://www.mobilejazz.com)__:
 
-- __crafting Android & iOS Apps__
+- __crafting Android & iOS Apps (Swift / Objective-C)__
 - __teaching__ public & private sector customers how to develop __iOS & Android__ Apps. I teach in Spanish & English, mainly inside Spain but also in other countries.
 
 
@@ -38,6 +38,10 @@ Working as a __Freelance__:
 
 ##Past experience
 
+- Freelance:
+    - developing Apps in a contract-based basis 
+    - __teaching__ public & private sector customers how to develop __iOS & Android__ Apps. I teach in Spanish & English, mainly inside Spain but also in other countries.
+    
 - IT Service Manager at [Isotrol](https://www.isotrol.com)
 August 2008 – December 2009 (1 year 5 months)
 	- in charge of a team of 8 System Admins
