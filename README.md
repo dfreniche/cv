@@ -27,7 +27,7 @@ Working as a __Mobile Developer at [Mobile Jazz](http://www.mobilejazz.com)__:
 
 ## Public speaking
 
-- Accepted as Speaker for upcoming Sept'16 iOSDevUK
+- Speaker at [iOSDevUK 2016](https://static1.squarespace.com/static/5463eca4e4b09c644a61f99a/t/57cfb800be6594f9111145d3/1473230850921/v1.2+iOSDevUK+2016+Programme.pdf)
 - Speaker at [Seville Developers Conference](http://www.sevilladevelopers.com/schedule/#session-1)
 - Speaker at [iOSDevUK 2014](https://www.conferize.com/conferences/iosdevuk-2014/speakers)
 - Speaker (two workshops, iOS) and Android) at the Gran Canaria TIC (GCTIC) Forum
