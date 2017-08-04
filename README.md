@@ -1,6 +1,6 @@
-#Diego Freniche Brito - Mobile Apps Developer / Teacher
+# Diego Freniche Brito - Mobile Apps Developer / Teacher
 
-##Contact info
+## Contact info
 
 ![](img/difb.jpg)
 
@@ -17,7 +17,7 @@
 	- El Saucejo, Seville (Spain)
 	- Travelling a lot, available to work elsewhere for short terms
 
-##Current Position
+## Current Position
 
 Working as a __Mobile Developer at [Mobile Jazz](http://www.mobilejazz.com)__:
 
@@ -25,7 +25,7 @@ Working as a __Mobile Developer at [Mobile Jazz](http://www.mobilejazz.com)__:
 - __teaching__ public & private sector customers how to develop __iOS & Android__ Apps. I teach in Spanish & English, mainly inside Spain but also in other countries.
 
 
-##Public speaking
+## Public speaking
 
 - Accepted as Speaker for upcoming Sept'16 iOSDevUK
 - Speaker at [Seville Developers Conference](http://www.sevilladevelopers.com/schedule/#session-1)
@@ -38,7 +38,7 @@ Working as a __Mobile Developer at [Mobile Jazz](http://www.mobilejazz.com)__:
 - Regular appearances at the Spanish development podcast [We.Developers](http://wedevelopers.com)
 
 
-##Past experience
+## Past experience
 
 - Freelance:
     - developing Apps in a contract-based basis 
@@ -77,7 +77,7 @@ September 1997 – August 1999 (2 years)
 1997 – 1998 (1 year)
 
 
-##Skills
+## Skills
 
 - __Strong IT knowledge__: I love Computer Science. Always learning. Always trying to improve, both personal and profesionally. 
 	- Programming languages I've used in chronological order: BASIC, PASCAL, C, C++, Clipper, Delphi, VB6, Java, Objective-C, JavaScript
@@ -86,29 +86,29 @@ September 1997 – August 1999 (2 years)
 - Team building: I've been forming/leading teams all my career.
 
 
-##Achievements
+## Achievements
 
-###Publications
+### Publications
 
 - Writer at [MacWorld Spain](http://dialnet.unirioja.es/servlet/autor?codigo=889530)
 - Writer at PCWorld Spain (topic: Linux)
 - Some code at bitbucket (migrating into Github): [https://bitbucket.org/dfreniche]()
 - A few episodes of my videocast (old Xcode 4 stuff, sorry): [http://www.cafeycocoa.com.es]() 
 
-###Customer Apps published
+### Customer Apps published
 
 - Other Apps created, but under NDA terms...
 - Neurology Interpreter Translator-Spanish (iOS App) [Link](https://itunes.apple.com/us/app/neusp/id527846682?mt=8)
 - Neurology Interpreter Chinese audio (NEU Ch) [Link](https://itunes.apple.com/us/app/neurology-interpreter-chinese/id533153381?mt=8)
 - Neurology Interpreter Spanish Android App [Link](https://play.google.com/store/apps/details?id=com.femtocoders.neusp&hl=en#!)
 
-###My first iOS Apps
+### My first iOS Apps
 
 - MyEvents, iOS App [Link](https://itunes.apple.com/es/app/myevents/id398956491?mt=8)
 - FXPlayer [Link](https://itunes.apple.com/es/app/fxplayer/id412711013?mt=8)
 - ClockRing [Link to repo, open source App](https://femtocoders.fogbugz.com/default.asp?W5#!)
 
-###Industry certifications
+### Industry certifications
 
 - SCJP 1.6 (Sun Certified Java Programmer) / Oracle
 - SCJP 1.5 (Sun Certified Java Programmer) / Oracle
