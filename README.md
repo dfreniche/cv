@@ -19,11 +19,9 @@
 
 ## Current Position
 
-Working as a __Mobile Developer at [Mobile Jazz](http://www.mobilejazz.com)__:
+(Since Jan 2018) Mobile developer at [Teamwork.com](https://www.teamwork.com). Maintaining the existing Projects & Desk Mobile Apps, written in Titanium Appcelerator. Technologies used: node.js, CoffeeScript, Axway Appcelerator, Swift, Java (for the native modules and extensions), gulp, bash.
 
-- __crafting Android & iOS Apps (Swift / Objective-C)__
-- __teaching__ public & private sector customers how to develop __iOS & Android__ Apps. I teach in Spanish & English, mainly inside Spain but also in other countries.
-
+Currently developing native Apps with Swift. 
 
 ## Public speaking
 
@@ -39,6 +37,9 @@ Working as a __Mobile Developer at [Mobile Jazz](http://www.mobilejazz.com)__:
 
 
 ## Past experience
+
+- __Mobile Developer at [Mobile Jazz](http://www.mobilejazz.com)__:
+	- __crafting Android & iOS Apps in Swift / Objective-C__
 
 - Freelance:
     - developing Apps in a contract-based basis 
