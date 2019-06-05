@@ -15,31 +15,20 @@
 
 - Current location: 
 	- El Saucejo, Seville (Spain)
-	- Travelling a lot, available to work elsewhere for short terms
+	- Travelling sometimes
 
 ## Current Position
 
-(Since Jan 2018) Mobile developer at [Teamwork.com](https://www.teamwork.com). Maintaining the existing Projects & Desk Mobile Apps, written in Titanium Appcelerator. Technologies used: node.js, CoffeeScript, Axway Appcelerator, Swift, Java (for the native modules and extensions), gulp, bash.
+(Jan 2018 - ) __Mobile developer at [Teamwork.com](https://www.teamwork.com)__. 
 
-Currently developing native Apps with Swift. 
+Maintaining the existing Projects & Desk Mobile Apps, written in CoffeeScript / Titanium Appcelerator. Technologies used: Node.js, CoffeeScript, Axway Appcelerator, Swift, Java (for the native modules and extensions), gulp, bash, Ruby.
 
-## Public speaking
-
-- Speaker at [iOSDevUK 2016](https://static1.squarespace.com/static/5463eca4e4b09c644a61f99a/t/57cfb800be6594f9111145d3/1473230850921/v1.2+iOSDevUK+2016+Programme.pdf)
-- Speaker at [Seville Developers Conference](http://www.sevilladevelopers.com/schedule/#session-1)
-- Speaker at [iOSDevUK 2014](https://www.conferize.com/conferences/iosdevuk-2014/speakers)
-- Speaker (two workshops, iOS) and Android) at the Gran Canaria TIC (GCTIC) Forum
-- Speaker at the [WipJam - MWC 2014](http://wipjammwc14.sched.org/event/c80b40922c7abb24aa768388f60fa5b6#.UwYllnneMWa)
-- Speaker at the [NSSpain international conference, Sept 2013](http://nsspain.com/2013/speakers/)
-- Speaker at the [BCNDevCon conference, Dec 2012](http://2012.bcndevcon.org/master-sessions/C-mo-entrar-en-el-comercio-m-vil)
-- Founder of the NSCoder Night Seville meeting group of Cocoa developers
-- Regular appearances at the Spanish development podcast [We.Developers](http://wedevelopers.com)
-
+Also developing native iOS Apps with Swift. 
 
 ## Past experience
 
-- __Mobile Developer at [Mobile Jazz](http://www.mobilejazz.com)__:
-	- __crafting Android & iOS Apps in Swift / Objective-C__
+- Mobile Developer at [Mobile Jazz](http://www.mobilejazz.com):
+	- crafting Android & iOS Apps in Swift / Objective-C
 
 - Freelance:
     - developing Apps in a contract-based basis 
@@ -87,6 +76,19 @@ September 1997 – August 1999 (2 years)
 - Team building: I've been forming/leading teams all my career.
 
 
+## Public speaking
+
+- Speaker at [AltConf Madrid 2019](http://madrid.altconf.com/schedule/)
+- Speaker at [iOSDevUK 2016](https://static1.squarespace.com/static/5463eca4e4b09c644a61f99a/t/57cfb800be6594f9111145d3/1473230850921/v1.2+iOSDevUK+2016+Programme.pdf)
+- Speaker at [Seville Developers Conference](http://www.sevilladevelopers.com/schedule/#session-1)
+- Speaker at [iOSDevUK 2014](https://www.conferize.com/conferences/iosdevuk-2014/speakers)
+- Speaker (two workshops, iOS) and Android) at the Gran Canaria TIC (GCTIC) Forum
+- Speaker at the [WipJam - MWC 2014](http://wipjammwc14.sched.org/event/c80b40922c7abb24aa768388f60fa5b6#.UwYllnneMWa)
+- Speaker at the [NSSpain international conference, Sept 2013](http://nsspain.com/2013/speakers/)
+- Speaker at the [BCNDevCon conference, Dec 2012](http://2012.bcndevcon.org/master-sessions/C-mo-entrar-en-el-comercio-m-vil)
+- Founder of the NSCoder Night Seville meeting group of Cocoa developers
+- Regular appearances at the Spanish development podcast [We.Developers](http://wedevelopers.com)
+
 ## Achievements
 
 ### Publications
@@ -121,3 +123,6 @@ September 1997 – August 1999 (2 years)
 
 University of Seville - Bachelor on Computer Science (Informática SS.FF.)
 
+---
+
+If you need a PDF version of this CV, go [here](https://gitprint.com/dfreniche/cv/blob/master/README.md)
